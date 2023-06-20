@@ -1,0 +1,15 @@
+version: 0.3
+phases:
+  install:
+    runtime-versions:
+      dotnet: 5.0
+  pre_build:
+    commands:
+      - nuget restore CiCD_AWSProject.sln
+  build:
+    commands:
+      - msbuild CiCD_AWSProject.sln /p:Configuration=Release
+artifacts:
+  files:
+    - '**/*'
+  base-directory: 'CiCD_AWSProject/bin/Release'
