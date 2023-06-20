@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\CiCD_AWSProject\\CiCD_AWSProject\\CiCD_AWSProject.csproj": {}
+    "C:\\TestingPipeline\\apidocker\\CiCD_AWSProject\\CiCD_AWSProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\CiCD_AWSProject\\CiCD_AWSProject\\CiCD_AWSProject.csproj": {
+    "C:\\TestingPipeline\\apidocker\\CiCD_AWSProject\\CiCD_AWSProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\CiCD_AWSProject\\CiCD_AWSProject\\CiCD_AWSProject.csproj",
+        "projectUniqueName": "C:\\TestingPipeline\\apidocker\\CiCD_AWSProject\\CiCD_AWSProject.csproj",
         "projectName": "CiCD_AWSProject",
-        "projectPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\CiCD_AWSProject\\CiCD_AWSProject\\CiCD_AWSProject.csproj",
+        "projectPath": "C:\\TestingPipeline\\apidocker\\CiCD_AWSProject\\CiCD_AWSProject.csproj",
         "packagesPath": "C:\\Users\\Pradeepa.lakshmanan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\CiCD_AWSProject\\CiCD_AWSProject\\obj\\",
+        "outputPath": "C:\\TestingPipeline\\apidocker\\CiCD_AWSProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pradeepa.lakshmanan\\AppData\\Roaming\\NuGet\\NuGet.Config",

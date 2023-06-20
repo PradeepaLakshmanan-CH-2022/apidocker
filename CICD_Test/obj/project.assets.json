@@ -6573,11 +6573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\CiCD_AWSProject\\CICD_Test\\CICD_Test.csproj",
+      "projectUniqueName": "C:\\TestingPipeline\\apidocker\\CICD_Test\\CICD_Test.csproj",
       "projectName": "CICD_Test",
-      "projectPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\CiCD_AWSProject\\CICD_Test\\CICD_Test.csproj",
+      "projectPath": "C:\\TestingPipeline\\apidocker\\CICD_Test\\CICD_Test.csproj",
       "packagesPath": "C:\\Users\\Pradeepa.lakshmanan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\CiCD_AWSProject\\CICD_Test\\obj\\",
+      "outputPath": "C:\\TestingPipeline\\apidocker\\CICD_Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pradeepa.lakshmanan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6594,8 +6594,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\CiCD_AWSProject\\CiCD_AWSProject\\CiCD_AWSProject.csproj": {
-              "projectPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\CiCD_AWSProject\\CiCD_AWSProject\\CiCD_AWSProject.csproj"
+            "C:\\TestingPipeline\\apidocker\\CiCD_AWSProject\\CiCD_AWSProject.csproj": {
+              "projectPath": "C:\\TestingPipeline\\apidocker\\CiCD_AWSProject\\CiCD_AWSProject.csproj"
             }
           }
         }
