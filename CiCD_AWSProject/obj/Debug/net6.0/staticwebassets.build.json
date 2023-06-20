@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xoZmudM5GSivenVJ5k7Qm/tlB0LMSoI/t8oVkPItCaA=",
+  "Source": "CiCD_AWSProject",
+  "BasePath": "_content/CiCD_AWSProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

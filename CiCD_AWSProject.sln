@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiCD_AWSProject", "CiCD_AWSProject\CiCD_AWSProject.csproj", "{3C14B8D3-B22E-4883-895F-856D23BEEB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICD_Test", "CICD_Test\CICD_Test.csproj", "{116A9B51-4F84-4D67-8E37-BEB4A39CBF9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C14B8D3-B22E-4883-895F-856D23BEEB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C14B8D3-B22E-4883-895F-856D23BEEB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C14B8D3-B22E-4883-895F-856D23BEEB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C14B8D3-B22E-4883-895F-856D23BEEB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116A9B51-4F84-4D67-8E37-BEB4A39CBF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116A9B51-4F84-4D67-8E37-BEB4A39CBF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116A9B51-4F84-4D67-8E37-BEB4A39CBF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116A9B51-4F84-4D67-8E37-BEB4A39CBF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C38B48-6569-462F-B0BC-AAA44E459EA3}
+	EndGlobalSection
+EndGlobal
