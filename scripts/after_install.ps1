@@ -3,7 +3,7 @@
 # Add your commands or actions to be executed after installation here
 
 # Example: Start a service
-Start-Service -Name "MyService"
+Start-Service -Name "MyAppService"
 
 # Example: Set permissions on a directory
 $Acl = Get-Acl -Path "C:\MyApplication"
