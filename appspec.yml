@@ -1,0 +1,18 @@
+version: 0.0
+os: windows
+files:
+  - source: /
+    destination: C:\TestingPipeline\apidocker
+
+hooks:
+  BeforeInstall:
+    - location: Scripts/stop_services.bat
+  AfterInstall:
+    - location: Scripts/start_services.bat
+
+permissions:
+  - object: C:\TestingPipeline\apidocker
+    pattern: "**"
+    except:
+      - Scripts/*
+
