@@ -6,6 +6,6 @@
 Stop-Service -Name "MyService" -Force
 
 # Example: Remove an existing directory
-Remove-Item -Path "C:\PipelineApplication" -Recurse -Force
+Remove-Item -Path "C:\MyPipelineApplication" -Recurse -Force
 
 # End of before_install.ps1 script
